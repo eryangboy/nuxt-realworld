@@ -1,0 +1,51 @@
+[
+  {
+    "path": "/",
+    "component": "/Users/eryang/learn_space/git/课程作业/fed-e-task-03-03/code/nuxt/pages/layout",
+    "children": [
+      {
+        "name": "home",
+        "path": "/",
+        "component": "/Users/eryang/learn_space/git/课程作业/fed-e-task-03-03/code/nuxt/pages/home",
+        "_name": "_148262a8"
+      },
+      {
+        "name": "login",
+        "path": "/login",
+        "component": "/Users/eryang/learn_space/git/课程作业/fed-e-task-03-03/code/nuxt/pages/login",
+        "_name": "_7b596188"
+      },
+      {
+        "name": "register",
+        "path": "/register",
+        "component": "/Users/eryang/learn_space/git/课程作业/fed-e-task-03-03/code/nuxt/pages/login",
+        "_name": "_7b596188"
+      },
+      {
+        "name": "profile",
+        "path": "/profile/:username",
+        "component": "/Users/eryang/learn_space/git/课程作业/fed-e-task-03-03/code/nuxt/pages/profile",
+        "_name": "_53e340bc"
+      },
+      {
+        "name": "settings",
+        "path": "/settings",
+        "component": "/Users/eryang/learn_space/git/课程作业/fed-e-task-03-03/code/nuxt/pages/settings",
+        "_name": "_8c763120"
+      },
+      {
+        "name": "editor",
+        "path": "/editor/:slug",
+        "component": "/Users/eryang/learn_space/git/课程作业/fed-e-task-03-03/code/nuxt/pages/editor",
+        "_name": "_7b8abbfa"
+      },
+      {
+        "name": "article",
+        "path": "/article/:slug",
+        "component": "/Users/eryang/learn_space/git/课程作业/fed-e-task-03-03/code/nuxt/pages/article",
+        "_name": "_3aad8409"
+      }
+    ],
+    "_name": "_f14cd492"
+  }
+]
