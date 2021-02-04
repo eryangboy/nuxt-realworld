@@ -2,7 +2,7 @@ export default {
   router: {
     linkActiveClass: "active",
     server: {
-      port: 3000, // default: 3000
+      port: 3389, // default: 3000
       host: "0.0.0.0", // default: localhost11,
     },
     extendRoutes(routes, resolve) {
