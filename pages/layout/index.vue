@@ -7,7 +7,7 @@
         <ul class="nav navbar-nav pull-xs-right">
           <template v-if="user">
             <li class="nav-item">
-              <nuxt-link class="nav-link" exact="" to="/">Home</nuxt-link>
+              <nuxt-link class="nav-link" exact="" to="/">Home1</nuxt-link>
             </li>
             <li class="nav-item">
               <nuxt-link
