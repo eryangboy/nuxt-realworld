@@ -1,10 +1,10 @@
 export default {
+  server: {
+    port: 3000, // default: 3000
+    host: "0.0.0.0", // default: localhost,
+  },
   router: {
     linkActiveClass: "active",
-    server: {
-      port: 3000, // default: 3000
-      host: "0.0.0.0", // default: localhost,
-    },
     extendRoutes(routes, resolve) {
       // 清除默认的路由规则
       routes.splice(0);
