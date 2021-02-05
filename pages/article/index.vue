@@ -31,7 +31,7 @@ import ArticleComments from "./components/article-comments";
 import { getArticleDetails } from "@/api/articles";
 import MarkdownIt from "markdown-it";
 export default {
-  name: "Article1",
+  name: "Article",
   components: { ArticleMeta, ArticleComments },
   head() {
     return {
